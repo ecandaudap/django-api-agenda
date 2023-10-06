@@ -1,0 +1,4 @@
+DB_NAME=api_agenda
+DB_USER=postgres
+#DB_PASSWORD=postgres
+DB_HOST=localhost
